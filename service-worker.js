@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pochemdollar/precache-manifest.c7055b25306a06c5558f7281337caeb1.js"
+  "/pochemdollar.github.io/precache-manifest.3f865b4ac6ac96eef0ad25ea01b5511c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/pochemdollar/index.html", {
+workbox.routing.registerNavigationRoute("/pochemdollar.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

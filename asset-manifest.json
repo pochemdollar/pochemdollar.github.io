@@ -1,14 +1,14 @@
 {
-  "main.css": "/pochemdollar/static/css/main.a4a15bc5.chunk.css",
-  "main.js": "/pochemdollar/static/js/main.eadb4ce1.chunk.js",
-  "main.js.map": "/pochemdollar/static/js/main.eadb4ce1.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/pochemdollar/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/pochemdollar/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/pochemdollar/static/js/runtime~main.f13f1a3a.js",
-  "runtime~main.js.map": "/pochemdollar/static/js/runtime~main.f13f1a3a.js.map",
-  "static/media/logo.svg": "/pochemdollar/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a4a15bc5.chunk.css.map": "/pochemdollar/static/css/main.a4a15bc5.chunk.css.map",
-  "index.html": "/pochemdollar/index.html",
-  "precache-manifest.c7055b25306a06c5558f7281337caeb1.js": "/pochemdollar/precache-manifest.c7055b25306a06c5558f7281337caeb1.js",
-  "service-worker.js": "/pochemdollar/service-worker.js"
+  "main.css": "/pochemdollar.github.io/static/css/main.a4a15bc5.chunk.css",
+  "main.js": "/pochemdollar.github.io/static/js/main.dc73c6f8.chunk.js",
+  "main.js.map": "/pochemdollar.github.io/static/js/main.dc73c6f8.chunk.js.map",
+  "static/js/1.fa92c112.chunk.js": "/pochemdollar.github.io/static/js/1.fa92c112.chunk.js",
+  "static/js/1.fa92c112.chunk.js.map": "/pochemdollar.github.io/static/js/1.fa92c112.chunk.js.map",
+  "runtime~main.js": "/pochemdollar.github.io/static/js/runtime~main.ffec36a3.js",
+  "runtime~main.js.map": "/pochemdollar.github.io/static/js/runtime~main.ffec36a3.js.map",
+  "static/media/logo.svg": "/pochemdollar.github.io/static/media/logo.5d5d9eef.svg",
+  "static/css/main.a4a15bc5.chunk.css.map": "/pochemdollar.github.io/static/css/main.a4a15bc5.chunk.css.map",
+  "index.html": "/pochemdollar.github.io/index.html",
+  "precache-manifest.3f865b4ac6ac96eef0ad25ea01b5511c.js": "/pochemdollar.github.io/precache-manifest.3f865b4ac6ac96eef0ad25ea01b5511c.js",
+  "service-worker.js": "/pochemdollar.github.io/service-worker.js"
 }
